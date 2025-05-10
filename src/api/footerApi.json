@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Location",
+    "details": "Jaipur"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call me",
+    "details": "8127511605"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "E-Mail",
+    "details": "nitishpathak203@gmail.com"
+  }
+]
